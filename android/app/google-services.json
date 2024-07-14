@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687517434440",
+    "project_id": "idil-deliveries-app-with-admin",
+    "storage_bucket": "idil-deliveries-app-with-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687517434440:android:6b1f7ffe82bfb491c70e7d",
+        "android_client_info": {
+          "package_name": "com.idildeliveries.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt4xK9MQC2dJYBi_Xvl3mIwD-fhoRXLQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
